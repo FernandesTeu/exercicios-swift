@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  Trabalhando com Mapas aula
+
+  Created by Mateus Fernandes on 13/03/19.
+  Copyright © 2019 Curso IOS. All rights reserved.
+*/
+NSLocationWhenInUseUsageDescription = "Please Accept the Authorization to best expirience in our app!";

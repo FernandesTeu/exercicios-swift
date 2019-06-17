@@ -1,0 +1,9 @@
+/* 
+  infoPlist.strings
+  Minhas Viagens
+
+  Created by Mateus Fernandes on 22/03/19.
+  Copyright © 2019 Growup. All rights reserved.
+*/
+
+NSLocationWhenInUseUsageDescription = "Please Accept the Authorization to best expirience in our app!";
